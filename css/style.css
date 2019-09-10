@@ -8,13 +8,13 @@
 }
 
 .catalog_page__section {
-  border-bottom: 1px solid #808080;
-  margin-bottom: 15px;
+	border-bottom: 1px solid #808080;
+	margin-bottom: 15px;
 }
 
 
 .catalog_page__section:last-child {
-  border: 0;
+	border: 0;
 }
 
 /* Table Styles */
@@ -25,9 +25,9 @@
 }
 
 .unc-catalog td, .unc-catalog th {
-  padding: 5px 10px;
-  border-top: 1px solid #ccc;
-  vertical-align: top;
+	padding: 5px 10px;
+	border-top: 1px solid #ccc;
+	vertical-align: top;
 }
 
 .unc-catalog tr.orclass td {
@@ -35,14 +35,14 @@
 }
 
 .unc-catalog tr.odd {
-  background: #EBEBEB;
+	background: #EBEBEB;
 }
 
 .unc-catalog tr.areaheader,
 .unc-catalog tr.listsum,
 .unc-catalog tr.plangridsum {
-  font-weight: bold;
-  font-size: 1.2em;
+	font-weight: bold;
+	font-size: 1.2em;
 }
 
 .unc-catalog table.sc_footnotes,
@@ -57,8 +57,8 @@
 .unc-catalog tr.plangridyear th,
 .unc-catalog tr.plangridterm th,
 .unc-catalog tr.plangridtotal td {
-    background: #13294B;
-    color: #fff;
-    font-weight: bold;
-    font-size: 1.2em;
+	background: #13294B;
+	color: #fff;
+	font-weight: bold;
+	font-size: 1.2em;
 }

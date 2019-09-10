@@ -1,0 +1,64 @@
+.unc-catalog .courseblock {
+	margin: 14px 0;
+	padding-bottom: 14px;
+}
+
+.unc-catalog .courseblock p {
+	margin-bottom: 0;
+}
+
+.catalog_page__section {
+  border-bottom: 1px solid #808080;
+  margin-bottom: 15px;
+}
+
+
+.catalog_page__section:last-child {
+  border: 0;
+}
+
+/* Table Styles */
+.unc-catalog table {
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.unc-catalog td, .unc-catalog th {
+  padding: 5px 10px;
+  border-top: 1px solid #ccc;
+  vertical-align: top;
+}
+
+.unc-catalog tr.orclass td {
+	border-top: 0;
+}
+
+.unc-catalog tr.odd {
+  background: #EBEBEB;
+}
+
+.unc-catalog tr.areaheader,
+.unc-catalog tr.listsum,
+.unc-catalog tr.plangridsum {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.unc-catalog table.sc_footnotes,
+.unc-catalog .sc_footnotes td {
+	border: 0;
+}
+
+.unc-catalog table.sc_footnotes td.symcol {
+	font-size: .8em;
+}
+
+.unc-catalog tr.plangridyear th,
+.unc-catalog tr.plangridterm th,
+.unc-catalog tr.plangridtotal td {
+    background: #13294B;
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.2em;
+}
